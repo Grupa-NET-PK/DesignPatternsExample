@@ -2,7 +2,7 @@
 Budowniczy jest **kreacyjnym** wzorcem projektowym, który daje możliwość tworzenia złożonych obiektów krok po kroku. Wzorzec ten pozwala produkować różne typy oraz reprezentacje obiektu używając tego samego kodu konstrukcyjnego.
 
 ## Statystyki
----
+
 | Klucz | Wartosć |
 | ------| --------|
 | Typ wzorca | Wzorzec Kreacyjny |
@@ -11,12 +11,10 @@ Budowniczy jest **kreacyjnym** wzorcem projektowym, który daje możliwość two
 
 
 ## Wykorzystanie
----
 Tworzenie obiektów o różnych konfiguracjach.
 
 
 ## Wykorzystany interface
----
 
 ```    
 public interface IBuilder
@@ -38,7 +36,6 @@ public interface IBuilder
 ```
 
 ## Moje uwagi
----
 
 Bardzo dobrze może zastąpić klasyczne tworzenie obiektów ( Wprowadzanie danych w konstruktor )
 

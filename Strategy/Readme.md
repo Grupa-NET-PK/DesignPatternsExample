@@ -2,7 +2,7 @@
 Strategia to **behawioralny** wzorzec projektowy zakładający przekształcenie zestawu zachowań w obiekty, które można stosować zamiennie w pierwotnym obiekcie
 
 ## Statystyki
----
+
 | Klucz | Wartosć |
 | ------| --------|
 | Typ wzorca | Wzorzec Behawioralny |
@@ -11,10 +11,10 @@ Strategia to **behawioralny** wzorzec projektowy zakładający przekształcenie 
 
 
 ## Wykorzystanie
----
+
 Zmiana funkcionalności bez konieczności roszerzania klasy
 ## Wykorzystany interface
----
+
 
 ```
 internal interface IStrategy
@@ -24,5 +24,5 @@ internal interface IStrategy
 ```
 
 ## Moje uwagi
----
+
 Moim zdaniem jest to jedno z podstawowych użyć interfaców
