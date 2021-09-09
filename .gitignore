@@ -1,0 +1,11 @@
+﻿.vs
+Builder/obj
+Builder/bin
+ChainOfResponsibility/bin
+ChainOfResponsibility/obj
+Facade/bin
+Facade/obj
+Singleton/bin
+Singleton/obj
+Strategy/bin
+Strategy/obj
