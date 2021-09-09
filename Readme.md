@@ -11,7 +11,7 @@ Wzorce projektowe które są tu prezentowane starałem się wybrać według ich 
 # Teoria
 W tym dziale omówimy troche teori która będzie przydatna w zrozumieniu wzorców projektowych
 ## Co to są wzorce projektowe ?
----
+
 Do wytłumaczenia czym są wzorce projektowe posłuże się moim zdaniem najlepszym istniejącym opisem który można znaleść tutaj --> [Link](https://pl.wikipedia.org/wiki/Wzorzec_projektowy_(informatyka)) (Tak to wikipedia)
 
 ***Wzorzec projektowy (ang. design pattern)** – uniwersalne, sprawdzone w praktyce rozwiązanie często pojawiających się, powtarzalnych problemów projektowych. Pokazuje powiązania i zależności pomiędzy klasami oraz obiektami i ułatwia tworzenie, modyfikację oraz utrzymanie kodu źródłowego. Jest opisem rozwiązania, a nie jego implementacją.*
