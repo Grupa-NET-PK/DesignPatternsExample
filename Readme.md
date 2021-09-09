@@ -23,7 +23,6 @@ Czyli w skrócie
 Przez to że wzorce są koncepcja implementacja tego rozwiązania jest zależna od nas oraz od naszych ograniczeń implmentacje mogą się różnić od siebie, jednak cel pozostaje ten sam czyli rozwiązanie pewnego powtarzalnegio problemu.
 
 ## Rodzaje wzorców projektowych
----
 
 ### **Wzorce kreacyjne** 
 Wprowadzają elastyczniejsze mechanizmy tworzenia obiektów i pozwalają na ponowne wykorzystanie istniejącego kodu.
