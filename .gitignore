@@ -1,6 +1,8 @@
 ﻿.vs
 Builder/obj
 Builder/bin
+ExtensionBuilder/obj
+ExtensionBuilder/bin
 ChainOfResponsibility/bin
 ChainOfResponsibility/obj
 Facade/bin
@@ -11,3 +13,5 @@ Strategy/bin
 Strategy/obj
 Decorator/bin
 Decorator/obj
+Command/bin
+Command/obj
